@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-[E- Commerce Inventory Management System](ecommerce-1400x800 (1).jpg)
+[E- Commerce Inventory Management System](ecommerce.png)
 
 ## E-Commerece Inventory Management System Project
 
