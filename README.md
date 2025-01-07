@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-[E- Commerce Inventory Management System]()
+
 
 ## E-Commerece Inventory Management System Project
 
