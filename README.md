@@ -13,7 +13,7 @@
 # DAAportfolio.github.io
 ## Portfolio
 
-
+<img src="https://th.bing.com/th/id/OIP.JvFo3tj5MCqh_DgyF_zE_gHaIQ?w=186&h=209&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Description of the image" width="300">
 ### Hello, I'm [SOURAV G YALLUR] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
