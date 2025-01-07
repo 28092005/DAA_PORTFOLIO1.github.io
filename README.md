@@ -1,7 +1,6 @@
 # Welcome to My Project
 
-[E- Commerce Inventory Management System](https://raw.githubusercontent.com/28092005/DAA_PORTFOLIO1.github.io/main/ecommerce.png
-)
+[E- Commerce Inventory Management System]()
 
 ## E-Commerece Inventory Management System Project
 
